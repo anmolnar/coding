@@ -1,0 +1,3 @@
+The Portable Class Library version of the SDK (which includes Xamarin support) is only distributed through NuGet and is not available through 
+the installer. The Portable Class Library uses platform-specific dependencies which are automatically resolved when references are added 
+through NuGet. This would be a complex process if done manually or without NuGet.
