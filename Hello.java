@@ -7,7 +7,11 @@ public class Hello {
     	String x = valami();
 
     	System.out.println(x);
-    	System.out.println("Vege");	
+    	System.out.println("Vege");
+
+		SynchronizedFactorizer
+
+
   	}
 
 
